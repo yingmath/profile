@@ -1,4 +1,4 @@
-# YING ZHANG
+# YING'S PROFILE
 
 
 ## Education Background
@@ -14,8 +14,13 @@ Graduated with High Distinction (highest honours degree)
 Major courses: Real Analysis, Number Theory, Abstract Algebra, Group Theory, Differential Equation, Algebra.
    
 ## Publication
+PME
+BSRLM
 
 ## Teaching Experience
+
+## Research Experience
+Cambridge Mathematics Research Assistant  
 
 ## Focus of Study
 
