@@ -1,4 +1,5 @@
-## Ying Zhang
+## YING ZHANG
+
 
 ### Education Background
 
