@@ -12,7 +12,7 @@ Thesis title: Effect of Student-centred Pedagogy on Students’ Mathematical Int
 Awarded with Distinction          
 Thesis title: “Chinese Teachers’ Views on Implementing Problem-based Learning in the Mathematics Classroom”
 
-**University of Toronto, Bachelor in Mathematics and its application (Specialist)**	 &emsp; &emsp;&emsp; &emsp; 2015-2019               
+**University of Toronto, Bachelor in Mathematics and its application (Specialist)**	 &emsp; &emsp;&emsp;  2015-2019               
 Graduated with High Distinction (highest honours degree)
 Major courses: Real Analysis, Number Theory, Abstract Algebra, Group Theory, Differential Equation, Algebra.
    
