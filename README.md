@@ -13,11 +13,6 @@ Thesis title: “Chinese Teachers’ Views on Implementing Problem-based Learnin
 Graduated with High Distinction (highest honours degree)
 Major courses: Real Analysis, Number Theory, Abstract Algebra, Group Theory, Differential Equation, Algebra.
    
-
-# Header 1
-## Header 2
-### Header 3
-
 ## Publication
 
 ## Teaching Experience
