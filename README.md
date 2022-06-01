@@ -14,7 +14,7 @@ Graduated with High Distinction (highest honours degree)
 Major courses: Real Analysis, Number Theory, Abstract Algebra, Group Theory, Differential Equation, Algebra.
    
 ## Publication
-Zhang, Y. (2022). Chinese Teachers’ Views on Difficulties of Implementing Problem-based Learning in Chinese Mathematics Classrooms.
+Zhang, Y. (2022). Chinese Teachers’ Views on Difficulties of Implementing Problem-based Learning in Chinese Mathematics Classrooms. PME. 
 
 Zhang, Y. (2022). Chinese teachers’ views on implementing problem-based learning in the Chinese mathematics classroom, Proceedings of the British Society for Research into Learning Mathematics, 41(3). https://bsrlm.org.uk/wp-content/uploads/2022/01/BSRLM-CP-41-3-10.pdf
 
