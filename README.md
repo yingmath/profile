@@ -2,11 +2,17 @@
 
 
 ### Education Background
+# University of Cambridge, PhD in Mathematics Education                                          2021- present       
+Thesis title: Effect of Student-centred Pedagogy on Students’ Mathematical Interest, Confidence and Problem-solving
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# University of Cambridge, MPhil in Mathematics Education                                        2019-2020        
+Awarded with Distinction          
+Thesis title: “Chinese Teachers’ Views on Implementing Problem-based Learning in the Mathematics Classroom”
 
-```markdown
-Syntax highlighted code block
+# University of Toronto, Bachelor in Mathematics and its application (Specialist)	               2015-2019               
+Graduated with High Distinction (highest honours degree)
+Major courses: Real Analysis, Number Theory, Abstract Algebra, Group Theory, Differential Equation, Algebra.
+   
 
 # Header 1
 ## Header 2
