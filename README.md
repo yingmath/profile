@@ -2,14 +2,14 @@
 
 
 ## Education Background
-**University of Cambridge, PhD in Mathematics Education**  &emsp; &emsp; &emsp; &emsp; 2021- present       
+**University of Cambridge, PhD in Mathematics Education**  &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; 2021- present       
 Thesis title: Effect of Student-centred Pedagogy on Students’ Mathematical Interest, Confidence and Problem-solving
 
-**University of Cambridge, MPhil in Mathematics Education**   &emsp; &emsp;&emsp; &emsp; 2019-2020        
+**University of Cambridge, MPhil in Mathematics Education**   &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2019-2020        
 Awarded with Distinction          
 Thesis title: “Chinese Teachers’ Views on Implementing Problem-based Learning in the Mathematics Classroom”
 
-**University of Toronto, Bachelor in Mathematics and its application (Specialist)**	 &emsp; &emsp;&emsp; 2015-2019               
+**University of Toronto, Bachelor in Mathematics and its application (Specialist)**	 &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; 2015-2019               
 Graduated with High Distinction (highest honours degree)
 Major courses: Real Analysis, Number Theory, Abstract Algebra, Group Theory, Differential Equation, Algebra.
    
