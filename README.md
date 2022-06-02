@@ -52,7 +52,6 @@ ranging from elementary to university.
 **Educational Influencer on Social Media** 
 - xxx
 - xxx
-[http://www.xiaohongshu.com/user/profile/5b9c18e269fcbb00012be9d9](url)
 
 **Nail Salon Founder** 
 - xx
@@ -62,7 +61,12 @@ ranging from elementary to university.
 <br/>
 
 ### 📫Connect with me
-Email:  
+`Email: 
+<br/>
+Wechat:
+<br/>
+Xiaohongshu:
+`
 
 **Bold** and _Italic_ and `Code` text
 
