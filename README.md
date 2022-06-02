@@ -27,11 +27,11 @@ ranging from elementary to university.
 ***sample of teaching***
 
 ## Research Experience
-
+- xxx
+- xxx
 
 
 ## Focus of Study
-
 - Bulleted
 - List
 
@@ -40,13 +40,13 @@ ranging from elementary to university.
 
 ## More about me
 **Educational Influencer on Social Media** 
-xx
-xx
+- xxx
+- xxx
 [http://www.xiaohongshu.com/user/profile/5b9c18e269fcbb00012be9d9](url)
 
 **Nail Salon Founder** 
- xxList
- xxList
+- xx
+- xxx
 
 **Bold** and _Italic_ and `Code` text
 
