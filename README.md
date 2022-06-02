@@ -27,6 +27,7 @@ ranging from elementary to university.
 ## Research Experience
 
 
+
 ## Focus of Study
 
 - Bulleted
