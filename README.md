@@ -34,13 +34,14 @@ ranging from elementary to university.
 <br/>
 
 ## Research Experience
-- xxx
-- xxx
+1. Research Assistant 
+2. Doctoral xxx
+3. XXX
 <br/>
 
 ## Focus of Study
-- Bulleted
-- List
+- Creativity
+- Pedagogy
 
 1. Numbered
 2. List
