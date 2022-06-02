@@ -3,7 +3,6 @@ I am a Ph.D student in Mathematics Education at Cambridge, supervised by Profess
 
 ![读博封面](https://user-images.githubusercontent.com/106698435/171744786-3e1f8337-8bb9-4c54-9e94-2767ede32206.jpg)
 
-
 ## Education Background
 **University of Cambridge, PhD in Mathematics Education**  &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2021- present       
 Thesis title: Effect of Student-centred Pedagogy on Students’ Mathematical Interest, Confidence and Problem-solving
@@ -40,18 +39,19 @@ ranging from elementary to university.
 2. List
 
 ## More about me
-**Educational Influencer on Social Media**
+**Educational Influencer on Social Media** 
+xx
 xx
 [http://www.xiaohongshu.com/user/profile/5b9c18e269fcbb00012be9d9](url)
 
 **Nail Salon Founder** 
-xx
+ xxList
+ xxList
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
-Email: xx @![Uploading 读博封面.jpg…]()
-cam.ac.uk    
+Email:  
 
 
