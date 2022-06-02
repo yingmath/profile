@@ -62,11 +62,9 @@ ranging from elementary to university.
 
 ### 📫Connect with me
 `Email:
-<br/>
-<br/>
+  &emsp; &emsp;&emsp;
 Wechat:
-<br/>
-<br/>
+  &emsp; &emsp;&emsp;
 Xiaohongshu:`
 
 **Bold** and _Italic_ and `Code` text
