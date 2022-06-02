@@ -46,6 +46,7 @@ ranging from elementary to university.
 1. Numbered
 2. List
 <br/>
+<br/>
 
 ## 🌱More about me
 **Educational Influencer on Social Media** 
@@ -57,8 +58,10 @@ ranging from elementary to university.
 - xx
 - xxx
 
+<br/>
+<br/>
 
-## 📫Connect with me
+### 📫Connect with me
 Email:  
 
 **Bold** and _Italic_ and `Code` text
