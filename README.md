@@ -58,7 +58,7 @@ ranging from elementary to university.
 - xxx
 
 
-## Connect with me
+## 📫Connect with me
 Email:  
 
 **Bold** and _Italic_ and `Code` text
