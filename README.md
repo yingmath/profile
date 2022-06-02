@@ -14,7 +14,8 @@ Thesis title: “Chinese Teachers’ Views on Implementing Problem-based Learnin
 **University of Toronto, Bachelor in Mathematics and its application (Specialist)**	 &emsp; &emsp;&emsp; 2015-2019               
 Graduated with High Distinction (highest honours degree)
 Major courses: Real Analysis, Number Theory, Abstract Algebra, Group Theory, Differential Equation, Algebra.
-   
+<br/>
+ 
 ## Publication
 Zhang, Y. (2022). Chinese Teachers’ Views on Difficulties of Implementing Problem-based Learning in Chinese Mathematics Classrooms. PME. 
 
