@@ -65,6 +65,8 @@ ranging from elementary to university.
 <br/>
 `Wechat`
 <br/>
+'Xiaohongshu'
+<br/>
 
 **Bold** and _Italic_ and `Code` text
 
