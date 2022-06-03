@@ -61,11 +61,10 @@ ranging from elementary to university.
 <br/>
 
 ### 📫Connect with me
-`Email:
-  &emsp; &emsp;&emsp;
-Wechat:
-  &emsp; &emsp;&emsp;
-Xiaohongshu:`
+`Email`
+<br/>
+`Wechat`
+<br/>
 
 **Bold** and _Italic_ and `Code` text
 
