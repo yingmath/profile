@@ -2,7 +2,7 @@
 I am a Ph.D student in Mathematics Education at Cambridge, supervised by Professor Andreas Stylianides, and my master thesis at Cambridge has owned the distintion awards. I am also an Educational influencer having 120k followers on Xiaohongshu, one of China's biggest social media. I was a Research Assistant in Cambridge mathematics during my first year Ph.D study. I received my bachelor degree in Mathematics from the University of Toronto.
 <br/>
 
-## `## Education Background`
+## Education Background
 **University of Cambridge, PhD in Mathematics Education**  &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2021- present       
 Thesis title: Effect of Student-centred Pedagogy on Students’ Mathematical Interest, Confidence and Problem-solving
 
