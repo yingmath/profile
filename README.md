@@ -63,10 +63,11 @@ ranging from elementary to university.
 ### 📫Connect with me
 `Email`
 <br/>
+`Google Scholar`
+<br/>
 `Wechat`
 <br/>
-'Xiaohongshu'
-<br/>
+
 
 **Bold** and _Italic_ and `Code` text
 
