@@ -1,4 +1,4 @@
-# YING (draft)
+# YING Zhang
 As a third year Ph.D. candidate at the University of Cambridge, my publication and research interests are in the area of mathematical pedagogy, mathematical creativity, and creative self-efficacy. I am also the Editor-in-Chief of CERJ to lead the publication of Volume 11. Prior to this, I completed my MPhil degree at Cambridge with distinction, and a bachelor's degree in Science (Mathematics and its Application Specialist) from the University of Toronto, achieving 100% in Real Analysis. 
 
 I am also an educational blogger with 300k followers on the Chinese social media platform "XiaoHongShu" and "Bilibili", on which I share free mathematics knowledge to students of all levels, ranging from elementary to university level.
